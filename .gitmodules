@@ -1,0 +1,3 @@
+[submodule "bazaar-ai"]
+	path = bazaar-ai
+	url = https://github.com/chandra-gummaluru/bazaar-ai
